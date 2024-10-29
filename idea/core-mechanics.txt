@@ -1,0 +1,12 @@
+On a un joueur qui evolue dans le monde en vainquant des monstres dans la "Cave".
+Le fonctionnement de la "Cave" est simple : situé au millieu de la map, le joueur peu appuyer sur un bouton pour entrer et lancer une premiere vague de monstres.
+Le joueur doit tuer tous les monstres pour passer a la vague suivante.
+Dans la "Cave" il y a un "%" de chance qu'un boss apparaisse a la fin de la derniere vague, recompensant le joueur avec des objets rares, plus d'experience et d'argent si il le tue.
+Pour obtenir encore plus de recompenses, le joueur peut activer des "Quetes" avant de rentrer dans la "Cave".
+Pour accompplir une quete il faut valider des objectifs.
+Les objectifs sont des actions a accomplir dans la "Cave" (tuer un certain nombre de monstres, tuer un boss, etc).
+Le joueur peut choisir entre deux archetypes pour ce qui est des equipements : "Guerrier" ou "Mage".
+Les equipements sont des objets qui augmentent les statistiques du joueur (force, intelligence, vie, vitesse d'attaque|deplacement, etc).
+Les equipements sont de trois types : "Armes", "Armures" et "Accessoires".
+Les equipements sont de trois qualites : "Commun", "Rare" et "Legendaire".
+Les equipements peuvent etre améliorer jusqu'a 5  etoile (ce qui confere un bonus sur une statistique pour chaque "palier" d'amelioration atteint), a l'aide des ressources de la "Cave" comme les lingot, les os et les cristaux.
